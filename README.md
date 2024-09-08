@@ -4,7 +4,7 @@
 - ✨ Let's create something awesome together!
 
 ### :eyes:Projects:
-- :gem: A real-life e-commerce jewelry website. (https://github.com/YueyaoLuo/Koko-Co.)  
+- :gem: A real-life e-commerce jewelry website. (<https://github.com/YueyaoLuo/Koko-Co.>)  
   ***React + Node.js + Express + MongoDB + StripeAPI + AWS S3***
   
 - :fork_and_knife: Find and review your favorite restaurants using Google Places API. (https://github.com/YueyaoLuo/foodie_list)  
